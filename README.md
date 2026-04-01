@@ -13,4 +13,4 @@ source ENV/bin/activae
 pip install -r requirements.txt
 ```
 
-Also use the Jupyter [Notebook file if you want](./MLT-Lab-Record.ipynb)
+Also use the [Jupyter Notebook file if you want](./MLT-Lab-Record.ipynb)
