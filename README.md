@@ -1,6 +1,12 @@
 # MLT Lab Record
 
-1. Create virtualenv and activate
+### Requirements
+
+1. python 3.12.3
+
+### Steps to run
+
+1. Create virtualenv and activate (optional)
 
 ```
 python3 -m virtualenv ENV
@@ -13,4 +19,4 @@ source ENV/bin/activae
 pip install -r requirements.txt
 ```
 
-Also use the [Jupyter Notebook file if you want](./MLT-Lab-Record.ipynb)
+Also use the [Jupyter Notebook file](./MLT-Lab-Record.ipynb) if you want.
